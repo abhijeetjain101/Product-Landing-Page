@@ -88,7 +88,7 @@ nav ul li{
 }
 
 .product-page input {
-    border: 1px solid #ccc
+    border: 1px solid #ccc;
     font-size: 20px;
     padding: 4px 7px;
     outline: 0;

@@ -39,22 +39,14 @@ body {
 }
 
 
-
-
-
 .fas {
-    display: flex;
     font-family: 'FontAwesome';
     font-weight: normal;
     font-style: normal;
     font-size: 5rem;
     color: black;
-    
 }
 
-.fa {
-    display: flex;
-}
 
 /* Logo */
 #header-img {
@@ -657,13 +649,6 @@ nav ul li{
         display: grid;
         grid-template-columns: 1fr;
         grid-template-rows: 1fr;
-    }
-
-    i{
-        display: flex;
-        position: relative;
-        top: 6.5rem;
-        left: 3.5rem;
     }
 
     .grid-container {
