@@ -43,7 +43,7 @@ body {
 
 
 .fas {
-    display: inline-block;
+    display: flex;
     font-family: 'FontAwesome';
     font-weight: normal;
     font-style: normal;
@@ -118,7 +118,7 @@ nav ul li{
 }
 
 .product-page p {
-    font-size: 1.5rem;
+    font-size: 2rem;
 }
 
 .product-page #email {
