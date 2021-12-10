@@ -555,6 +555,18 @@ nav ul li{
     }
 }
 
+@media(max-width: 2560px) {
+    .product-page div p{
+        margin-right: 150rem;
+    }
+}
+
+@media(max-width: 1500px) {
+    .product-page div p{
+        margin-right: 50rem;
+    }
+}
+
 @media(max-width: 998px) {
     html {
         font-size: 55%;
